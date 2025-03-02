@@ -1,0 +1,183 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav {
+    padding: 20px 0;
+    transition: all 0.4s ease-in-out;
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 999;
+}
+.nav-item {
+    display: flex;
+    list-style: none;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: end;
+}
+.bg-image {
+    background: rgb(80, 79, 79) url(https://github.com/huyhaq/html_css_case_study_lab_1_2/blob/main/image/01.jpg?raw=true);
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    width: 100%;
+    height: 50%;
+}
+.navbar-brand {
+    padding-left: 100px;
+}
+.b-two {
+    color: rgb(60, 160, 130);
+}
+.fw-bold {
+    color: rgb(255, 255, 255);
+}
+.margin {
+    padding: 100px;
+    padding-right: 700px;
+}
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40%;
+  }
+  
+.success {background-color: rgb(60, 160, 130);}
+.success:hover {background-color: rgb(60, 160, 130);}
+.fw-bold {
+    font-size: 55px;
+}
+.mt-4 {
+    color: rgb(60, 160, 130);
+}
+.mt-5 {
+    color: rgb(51, 51, 51);
+}
+.a-two {
+    color: rgb(60, 160, 130);
+    font-size: 20px;
+}
+.a-one {
+    padding-right: 200px;
+}
+.about {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.bg-image3 {
+    background: rgb(48, 48, 48) url(https://github.com/huyhaq/html_css_case_study_lab_1_2/blob/main/image/menu/10.jpg?raw=true);
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    width: 100%;
+    height: 50%;
+}
+.service {
+    text-align: center;
+    color: white;
+}
+.owl-carousel {
+    display: flex;
+    justify-content: space-around;
+}
+.card-text {
+    color: white;
+}
+.about-img {
+    margin: 50px;
+}
+.card-img-top {
+    width: 300px;
+    height: 300px;
+}
+.card-body {
+    text-align: center;
+
+}
+.card-title {
+    color: rgb(60, 160, 130);
+    font-size: 25px;
+}
+.special-menu {
+    text-align: center;
+    border: 40px solid transparent;
+    font-size: 42px;
+}
+.manu1 {
+    display: flex;
+    justify-content: space-around;
+}
+.manu2 {
+    display: flex;
+    justify-content: space-around;
+}
+.manu3 {
+    display: flex;
+    justify-content: space-around;
+}
+.menu-one {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.menu {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.t-one {
+    text-align: center;
+}
+.bg-image2 {
+    background: rgb(73, 73, 73) url(https://github.com/huyhaq/html_css_case_study_lab_1_2/blob/main/image/09.jpg?raw=true);
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    width: 100%;
+    height: 50%;
+    
+}
+.open-hour {
+    font-size: larger;
+    color: white;
+}
+.open-hour2 {
+    color: rgb(60, 160, 130);
+    font-size: 30px;
+}
+.open-hour3 {
+    color: white;
+}
+.open-hour4 {
+    color: rgb(60, 160, 130);
+}
+.img-fluid {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
+.our-gallery {
+    display: flex;
+    justify-content: space-around;
+}
+.our-gallery2 {
+    display: flex;
+    justify-content: space-around;
+}.our-gallery3 {
+    display: flex;
+    justify-content: space-around;
+}
+.our-gallery4 {
+    display: flex;
+    justify-content: space-around;
+}
